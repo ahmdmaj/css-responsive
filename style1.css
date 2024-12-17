@@ -1,0 +1,16 @@
+.main{
+    display: flex;
+    background-color: bisque;
+}
+.sub{
+    background-color: rgba(0, 0, 255, 0.484);
+    height: 200px;
+    flex: 1;
+    border: 5PX solid black;
+}
+#long{
+    flex: 2;
+}
+#short{
+    flex: 0.5;
+}
